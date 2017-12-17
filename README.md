@@ -10,7 +10,7 @@ For automated testing, you must submit a shell script titled classify.sh. It sho
 
 The output should be two files titled “train.txt” and “test.txt”. In train.txt, the ith line contains the class label of graph i followed by the feature vector representation of the ith graph in the trainset. The label of an active graph is “1” and an inactive graph is “-1”. Each line must be of the following format:
 
-<label> <index1>:<value1> <index2>:<value2> ...
+label index1:value1 index2:value2 ...
 
 .
 
