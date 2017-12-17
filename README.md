@@ -31,3 +31,8 @@ index1:value1 index2:value2 ...
 If test set contains 100 graphs, test.txt should contain 100 lines (same for train.txt as well). We will run libsvm on your files. If you do not adhere to the above format, you will receive 0 points. More specifically, you should run libsvm on train.txt and ensure that libsvm is able to train on your data format.
 
 Your shell script must complete within 20 minutes. This includes both the training and testing time.
+
+
+Parts of code are borrowed from -
+1) http://glaros.dtc.umn.edu/gkhome/pafi/download
+2) https://onedrive.live.com/?authkey=%21AHBIdkESKH23a2k&cid=EF92560AE8680184&id=EF92560AE8680184%219088&parId=EF92560AE8680184%217328&o=OneUp
